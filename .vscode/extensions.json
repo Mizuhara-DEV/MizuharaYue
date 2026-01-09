@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"vira.vsc-vira-theme",
+		"intellsmi.comment-translate",
+		// "ms-vscode-remote.remote-wsl",
+		"mikestead.dotenv",
+		"xabikos.javascriptsnippets",
+		"esbenp.prettier-vscode",
+		"mutantdino.resourcemonitor"
+	]
+}
