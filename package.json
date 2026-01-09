@@ -1,0 +1,34 @@
+{
+  "name": "mizuhara-yue",
+  "version": "4.0.1",
+  "description": "MizuharaYue | 冰の女王 ❄️ Nữ hoàng Băng giá",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node .",
+    "start": "node .",
+    "dev": "node --watch ."
+  },
+  "imports": {
+    "#client/*": "./src/client/*",
+    "#data/*": "./src/data/*",
+    "#model/*": "./src/data/model/*",
+    "#configs/*": "./src/data/configs/*",
+    "#components/*": "./src/components/*",
+    "#plugins/*": "./src/plugins/*",
+    "#structure/*": "./src/structure/*",
+    "#utils/*": "./src/utils/*"
+  },
+  "keywords": [],
+  "author": "MizuharaDEV",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.5",
+    "quick-yaml.db": "^1.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}

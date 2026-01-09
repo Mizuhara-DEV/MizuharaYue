@@ -1,0 +1,5 @@
+{
+	// "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}

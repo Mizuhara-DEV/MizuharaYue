@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"intellsmi.comment-translate",
+		// "ms-vscode-remote.remote-wsl",
+		"mikestead.dotenv",
+		"xabikos.javascriptsnippets",
+		"esbenp.prettier-vscode",
+		"mutantdino.resourcemonitor",
+		"zhuangtongfa.material-theme",
+		"vscode-icons-team.vscode-icons"
+	]
+}

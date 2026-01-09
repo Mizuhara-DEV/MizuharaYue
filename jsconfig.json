@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "checkJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "#client/*": ["src/client/*"],
+      "#data/*": ["src/data/*"],
+      "#model/*": ["src/data/model/*"],
+      "#configs/*": ["src/data/configs/*"],
+      "#components/*": ["src/components/*"],
+      "#plugins/*": ["src/plugins/*"],
+      "#structure/*": ["src/structure/*"],
+      "#utils/*": ["src/utils/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

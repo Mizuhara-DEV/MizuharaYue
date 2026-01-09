@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+
+# folder test
+test/
+
+# DO NOT REMOVE THESE FOR SECURITY
+src/data/configs/config.js
+.env
+database/*.yaml
+terminal.log
